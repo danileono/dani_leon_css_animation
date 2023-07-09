@@ -79,7 +79,7 @@ header{
     flex-direction: column;
     justify-content: space-between;
     margin-left: 3rem;
-    align-items: start;
+    align-items: start; 
 }
 
 .info-profile button{
